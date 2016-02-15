@@ -1,0 +1,5 @@
+package proxy;
+
+public enum AdminCommand {
+    AUTH, LISTUSERS, SETSERVER, RETRSTATS, TOGGLELEET, TOGGLEROTATION, FINALIZE, QUIT, UNKNOWN
+}
